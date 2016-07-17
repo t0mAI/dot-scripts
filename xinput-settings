@@ -1,0 +1,4 @@
+#! /bin/bash
+
+xinput --set-prop --type=int --format=8 "AlpsPS/2 ALPS GlidePoint" "Synaptics Two-Finger Scrolling" 0 0 
+xinput --set-prop --type=int --format=8 "AlpsPS/2 ALPS GlidePoint" "Synaptics Edge Scrolling" 1 1 0 
